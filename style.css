@@ -61,6 +61,12 @@ hr {
   font-size: 23px !important;
   line-height: 20px !important;
 }
+#info {
+  padding: 0;
+}
+#info li {
+  list-style-type: none;
+}
 #about,
 .card > ul > li {
   padding: 0 0 0 15px;
