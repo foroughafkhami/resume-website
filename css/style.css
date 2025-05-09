@@ -185,6 +185,7 @@ section {
 .job li,
 section {
   font-size: 15px;
+  margin: 0.5rem 0;
 }
 
 .job p {
